@@ -1,0 +1,31 @@
+.navbar-btn {
+    border: 3px solid #eee;
+    border-radius: 5px;
+    padding: 1rem;
+    font-size: 20px;
+}
+
+.navbar-texto {
+    font-size: 1.25rem;
+    padding: 1rem;
+    text-decoration: none;
+    color: #212529;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    transition: 0.3s ease;
+}
+
+.navbar-texto:hover {
+    background-color: #212529;
+}
+
+body {
+    background-image: url(../imagens/estrategia-do-oceano-azul.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:  100%;
+    
+}
+p {
+    color: rgb(0, 0, 0);
+}
