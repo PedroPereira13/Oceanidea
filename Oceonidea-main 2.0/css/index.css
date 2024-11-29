@@ -20,11 +20,13 @@
 }
 
 body {
-    background-image: url(../imagens/estrategia-do-oceano-azul.jpg);
+    /* background-image: url(../imagens/estrategia-do-oceano-azul.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width:  100%;
-    
+     */
+     background: rgb(11,8,94);
+     background: linear-gradient(90deg, rgba(11,8,94,1) 0%, rgba(96,91,250,1) 54%, rgba(8,8,85,1) 100%);
 }
 p {
     color: rgb(0, 0, 0);
