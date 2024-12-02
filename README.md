@@ -1,2 +1,2 @@
-# Oceanidea
-Projeto de criação de blog feito por Pedro Pereira e Raphael Eduardo 
+# Oceonidea
+trabalho feito por Pedro Pereira e Raphael Garcia estudantes da Etec Polivalente
